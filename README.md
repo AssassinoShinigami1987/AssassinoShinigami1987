@@ -69,8 +69,6 @@ Estou organizando meus primeiros repositórios públicos. Em breve, você verá:
 - Pequenas APIs em Python
 - Exemplos de automações úteis no dia a dia
 
-> Assim que publicar seus primeiros projetos, fixe-os no perfil para dar destaque.
-
 ---
 
 ## Estatísticas e métricas
@@ -108,3 +106,4 @@ Como usar:
 4) Banner mantido usando assets/images/perfil.jpeg.
 5) Atualize a seção "Projetos" assim que publicar algo novo.
 -->
+
