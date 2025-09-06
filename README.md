@@ -87,7 +87,7 @@ Estou organizando meus primeiros repositórios públicos. Em breve, você verá:
 ## Contato
 
 <p align="center">
-  <a href="mailto:josepaulo20030502@gmail.com"><b>Vamos conversar?</b></a> • 
+  <a href="josepaulo20030502@gmail.com"><b>Vamos conversar?</b></a> • 
   <a href="https://www.linkedin.com/in/jos%C3%A9-paulo-a255a6374/"><b>LinkedIn</b></a>
 </p>
 
@@ -106,4 +106,5 @@ Como usar:
 4) Banner mantido usando assets/images/perfil.jpeg.
 5) Atualize a seção "Projetos" assim que publicar algo novo.
 -->
+
 
