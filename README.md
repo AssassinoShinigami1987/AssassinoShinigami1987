@@ -1,6 +1,6 @@
 <!-- Banner (opcional). Use sua imagem local ou remova este bloco -->
 <p align="center">
-  <img src="assets/images/perfil.jpeg" alt="Banner - José Paulo" width="100%" />
+  <img src="assets/images/perfil.jpeg" alt="Banner - José Paulo" width="50%" />
 </p>
 
 <h1 align="center">Olá, eu sou o José Paulo 👋</h1>
@@ -106,6 +106,7 @@ Como usar:
 4) Banner mantido usando assets/images/perfil.jpeg.
 5) Atualize a seção "Projetos" assim que publicar algo novo.
 -->
+
 
 
 
