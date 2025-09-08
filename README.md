@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:josepaulo20030502@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=orange" /></a>
+  <a href="mailto:josepaulo20030502@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=red" /></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-paulo-a255a6374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -106,6 +106,7 @@ Como usar:
 4) Banner mantido usando assets/images/perfil.jpeg.
 5) Atualize a seção "Projetos" assim que publicar algo novo.
 -->
+
 
 
 
